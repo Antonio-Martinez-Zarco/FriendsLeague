@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FriendsLeague</string>
+    <string name="forget"><u>¿Has olvidado tu contraseña?</u></string>
+    <string name="create"><u>Crea tu cuenta nueva</u></string>
+    <string name="register"><u>Acepto los términos y condiciones</u></string>
+    <string name="profile">Profile</string>
+    <string name="videogame">Videogame</string>
+    <string name="leagues">Leagues</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="nuevo">¿Eres nuevo?</string>
+    <string name="name_league">Nombre de liga</string>
+    <string name="participates">Nº Participantes</string>
+    <string name="names">Nombres</string>
+    <string name="create_league">Crear liga</string>
+    <string name="add_users">Añadir usuarios</string>
+    <string name="cerrar_sesion"><u>Cerrar sesión</u></string>
+    <string name="delete_account"><u>Eliminar cuenta</u></string>
+
+    <!-- PopUps -->
+    <string name="popup_requires">¡Requisitos!</string>
+    <string name="text_requires"><![CDATA[Email -> Formato correcto \n]]></string>
+    <string name="submit">Entendido</string>
+    <string name="delete_popup">¡Eliminar cuenta!</string>
+    <string name="text_delete">Esta seguro que desea eliminar su cuenta, este proceso no tiene vuelta atrás.</string>
+    <string name="delete_league_popup">¡Eliminar liga!</string>
+    <string name="text_league_delete">Esta seguro que deseas eliminar la liga, este proceso será para siempre y no podrás volver a ver esta liga</string>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabecera_tabla">
+        <item>Nombre</item>
+        <item>Victorias</item>
+        <item>Empates</item>
+        <item>Derrotas</item>
+    </string-array>
+</resources>

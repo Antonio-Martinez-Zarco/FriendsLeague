@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="4">
+
+    <TextView
+        android:id="@+id/txt_player_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/rectangle_result"
+        android:textAlignment="center"
+        tools:text="Nombre"/>
+
+    <TextView
+        android:id="@+id/txt_player_victories"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/rectangle_result"
+        android:textAlignment="center"
+        tools:text="Victorias"/>
+
+    <TextView
+        android:id="@+id/txt_player_ties"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/rectangle_result"
+        android:textAlignment="center"
+        tools:text="Empate"/>
+
+    <TextView
+        android:id="@+id/txt_player_defeats"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/rectangle_result"
+        android:textAlignment="center"
+        tools:text="Derrotas"/>
+
+</LinearLayout>

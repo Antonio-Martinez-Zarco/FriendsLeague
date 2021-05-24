@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_leagues" android:icon="@drawable/ic_baseline_sports_football_24" android:title="@string/leagues"/>
+    <item android:id="@+id/action_videogame" android:icon="@drawable/ic_baseline_videogame_asset_24" android:title="@string/videogame"/>
+    <item android:id="@+id/action_person" android:icon="@drawable/ic_baseline_person_24" android:title="@string/profile"/>
+
+</menu>
